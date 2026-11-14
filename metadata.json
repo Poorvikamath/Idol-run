@@ -1,0 +1,6 @@
+{
+  "name": "Idol Run: Jungle Ruins",
+  "description": "A 3D endless temple escape runner set in sunlit ancient jungle ruins with 90-degree turns, procedural stone paths, power-ups, and a pursuing temple guardian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
